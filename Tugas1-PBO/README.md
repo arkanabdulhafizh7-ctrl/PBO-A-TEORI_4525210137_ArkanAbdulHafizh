@@ -48,13 +48,9 @@ Inheritance (pewarisan) memungkinkan class anak memakai atribut dan method milik
 - `Lingkaran`, `Persegi`, dan `Segitiga` mewarisi `BangunDatar` dengan keyword `extends`. Method `luas()` dan `keliling()` di-override sesuai rumus masing-masing. `Segitiga` tidak mendefinisikan `keliling()`, jadi yang terpanggil adalah milik parent.
 - `MahasiswaInternational` mewarisi `Mahasiswa` dan menambah atribut `negaraAsal`. Constructor parent dipanggil dengan `parent::__construct()`, dan `tampilkanInfo()` di-override dengan `parent::tampilkanInfo()`.
 
-**Output `app.php`:**
+**Output `app.php & main.php`:**
 
-![Output 03 app](images/03-app.png)
-
-**Output `main.php`:**
-
-![Output 03 main](images/03-main.png)
+![Output 03 app & main](images/03.png)
 
 ---
 
