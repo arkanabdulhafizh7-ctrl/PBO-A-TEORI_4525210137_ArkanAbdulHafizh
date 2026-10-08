@@ -1,8 +1,5 @@
 # Tugas 1 PBO - Convert Java ke PHP
 
-Repository ini berisi hasil konversi kode Java dari pertemuan 01 sampai 06 ke dalam bahasa PHP (OOP).
-Sumber kode asli: https://github.com/adiwp/pbo20192020II/tree/master/gasal20242025
-
 ## Cara Menjalankan
 
 Pastikan PHP sudah terinstall, lalu jalankan lewat terminal:
